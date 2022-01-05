@@ -21,6 +21,8 @@ function ExampleApp() {
       connectors={connectors}
       supportedChainIds={supportedChainIds}
     >
+      <br>
+      </br>
       <ConnectWallet />
       <DropClaim />
     </ThirdwebProvider>

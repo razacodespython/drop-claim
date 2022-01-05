@@ -32,7 +32,7 @@ const DropClaim = () => {
         
         </br>
       <button style={{ padding: "10px 20px", textAlign: "center",  backgroundColor: "#44014C" , color: "white"}}class="btn" onClick={onClick}>
-        Claim normal Drop!
+        Claim single Drop!
       </button>
     </div>
   );
